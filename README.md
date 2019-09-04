@@ -1,0 +1,2 @@
+# PatchCamelyon
+Image Diagnosis assignment
